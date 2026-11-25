@@ -148,6 +148,3 @@ False positives included bench and airplane.
 
 ---
 
-## Overall Observations
-
-[Summarise your own conclusions after completing the experiments. Identify strengths, limitations and possible improvements.]
